@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowerStore</string>
+    <string name="add_product">Added product: </string>
+</resources>
